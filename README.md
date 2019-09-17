@@ -102,7 +102,7 @@ Guia definitivo criado pelo **Papito** do **QA NINJA**, abaixo:
 git clone https://github.com/eduardofaim/new_employee.git
 ```
 
-### Depenencias do Projeto
+### Dependencias do Projeto
 
 
 Execute os seguintes comandos para instalar as **gems**:
