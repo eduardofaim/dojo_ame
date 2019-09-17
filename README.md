@@ -39,7 +39,7 @@
 ## Howto
 
 
-### Instalando Ruby
+### Instalando Ruby para LINUX
  
 
 Direto da **homepage** do próprio **[Ruby](https://www.ruby-lang.org/en/documentation/installation/)**
@@ -86,6 +86,15 @@ Instalando a última versão do **Ruby** e configurando para que seja a versão 
 
 9º rbenv global 2.5.1
 ```
+
+
+### Instalando Ruby para WINDOWS
+
+
+Guia definitivo criado pelo **Papito** do **QA NINJA**, abaixo:
+
+[Clique aqui para seguir o GUIA passo a passo](https://medium.com/qaninja/instalando-ruby-cucumber-e-capybara-no-windows-10-acb1fe833a95)
+
 
 ### Clonando o Projeto
 
