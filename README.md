@@ -1,4 +1,5 @@
  ![QA_AME](https://i.ibb.co/8PgBByW/Screenshot-from-2019-09-17-09-45-43.png)
+
 ## Índice
 
 - [Agenda](#agenda)
@@ -7,6 +8,7 @@
 - [How to](#howto)
 - [Participantes](#participantes)
 - [Links ùteis](#links)
+
 
 ## Agenda
 
@@ -20,21 +22,26 @@
 
 ## Desafio
 
-- Escreva um cenário (**BDD**) que a partir do site da Ame Digital da home e acesse a area de dúvidas  e envie um e-mail de contato com uma  dúvida com as regras:​
+- Escreva um cenário (**BDD**) que a partir do site da **Ame Digital** da home e acesse a area de dúvidas  e envie um e-mail de contato com uma dúvida com as regras:​
 
   - Classificação: **"Geral"​**​
   - Assunto: **"Como funciona a Ame"​**
 
+
 ## Stack
+
 - Ruby
 - BDD
 - Cucumber
 - Capybara
 
+
 ## Howto
 
->**Instalando Ruby**
+
+>**Instalando Ruby```
  
+
 Direto da **homepage** do próprio **[Ruby](https://www.ruby-lang.org/en/documentation/installation/)**
 
 Ruby com **[Homebrew](http://brew.sh/)**
@@ -79,11 +86,15 @@ Instalando a última versão do **Ruby** e configurando para que seja a versão 
 
 9º rbenv global 2.5.1
 ```
+
 >**Clonando o Projeto**
+
 ```
 git clone https://github.com/eduardofaim/new_employee.git
 ```
+
 >**Depenencias do Projeto**
+
 
 Execute os seguintes comandos para instalar as **gems**:
 ```
@@ -92,9 +103,12 @@ Execute os seguintes comandos para instalar as **gems**:
 ```
 2º bundle
 ```
+
 >**Executando o Projeto**
 
+
 Para rodar os testes, execute o comando `cucumber` e verifique se passou todos. 
+
 
 ## Participantes
 
@@ -103,6 +117,7 @@ Para rodar os testes, execute o comando `cucumber` e verifique se passou todos.
 - Raíssa
 - Gabriela
 - Jésus Thiago
+
 
 ## Links
 
